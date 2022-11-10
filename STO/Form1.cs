@@ -19,8 +19,8 @@ namespace STO
         private void button1_Click(object sender, EventArgs e)
         {
             this.Visible = false;
-            var NewForm3 = new Form3();
-            NewForm3.Show();
+            var NewForm4 = new Form4();
+            NewForm4.Show();
         }
 
         private void button1_MouseEnter(object sender, EventArgs e)

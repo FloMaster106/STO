@@ -10,15 +10,11 @@ using System.Windows.Forms;
 
 namespace STO
 {
-    public partial class Form3 : Form
+    public partial class Form5 : Form
     {
-        public Form3()
+        public Form5()
         {
             InitializeComponent();
-        }
-        private void Form3_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

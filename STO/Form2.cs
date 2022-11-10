@@ -19,8 +19,8 @@ namespace STO
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var NewForm1 = new Form1();
-            NewForm1.Show();
+            var NewForm4 = new Form4();
+            NewForm4.Show();
             this.Close();
         }
 
